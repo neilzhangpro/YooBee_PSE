@@ -90,10 +90,6 @@ def factorial_math(n):
     return math.factorial(n)
 
 
-# Note: Fibonacci series cannot be directly simplified using math library,
-# but we can use math library for other enhancements if needed.
-# For example, we can use math.sqrt() for Binet's formula (optional advanced approach)
-
 
 if __name__ == "__main__":
     # Test Part 1: Manual calculations
